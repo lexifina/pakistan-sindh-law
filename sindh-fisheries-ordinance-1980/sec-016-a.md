@@ -1,0 +1,9 @@
+# Section 16a. Power to act against vessels fishing illegally in adjacent provinces
+[16-A. (1) Where a fishing craft, whether registered in Province of Sindh or not, is found fishing or is suspected to have been fishing in the territorial waters of an adjacent province without the license, permit, special order or authorization of the Sindh Province, the Director Fisheries Sindh or any person authorized by him may, upon receipt of a verified complaint or evidence from the Government of Balochistan or any competent authority including Law Enforcement Agencies (LEAs) such as Intelligence Agencies of Pakistan, Pakistan Maritime Security Agency (PMSA), Pakistan Coast Guard (PCG), Pakistan Navy (Marine) (PN), to stop, board and inspect such vessel within the territorial waters of the Province of Sindh.
+(2) Upon being satisfied that an offence under sub-section (1) has been committed, the Director Fisheries, Sindh Fisheries Department may, without favoritism, take any action under the relevant provisions of this Ordinance, that offence might have took place in the adjacent province, liable for the following actions within the territory of the Province of Sindh:-
+(i) the owner or operator or crew of the boat shall be issued a show-cause notice and shall be required to appear before the Director or nay person authorized by him within three working days;
+(ii) based on the inquiry, if the violation is established, the Director or person authorized by him, may-
+(a) suspend or cancel the license and registration of the vessel or crew if it is registered in the Province of Sindh; and
+(b) impose a penalty for the boat or crew as defined in the Second Schedule or initiate legal proceedings under the relevant section of the Ordinance;
+(c) seize the fish caught, and the fishing gear used in such fishing; and
+(d) arrest without warrant, the boat owner or operator and crew of such vessel.]
