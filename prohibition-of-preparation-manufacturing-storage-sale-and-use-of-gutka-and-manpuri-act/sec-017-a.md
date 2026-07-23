@@ -1,0 +1,2 @@
+# Section 17a. Trail of cases
+[17-A. All cases pending in the Court of Sessions, immediately before the commencement of the Sindh Prohibition of Preparation, Manufacturing, Storage, Sale and Use of Gutka and Manpuri (Amendment) Act, 2021, shall stand transferred to the Court of Judicial Magistrate who shall try and proceed further in the cases received to it except in exceptional cases where the transferee court has ordered for is ordered for de novo proceedings in such cases.]
