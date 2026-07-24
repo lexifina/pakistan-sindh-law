@@ -1,0 +1,3 @@
+# Section 19b. The Librarian
+19-B. The Director (Works and Services) shall be whole time officer of the University and shall be appointed by the Syndicate on recommendation of the Selection Board on such terms and conditions as it may determine. He shall be responsible for the execution of the development projects, provision of services, procurement and installation of equipment and machinery and other tools and materials and proper maintenance of all works and services of the university.
+"19-C The Librarian. The Librarian shall be a whole-time officer of the University and shall be appointed by the Syndicate on the recommendations of Selection Board.".
