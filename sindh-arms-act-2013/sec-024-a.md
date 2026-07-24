@@ -1,0 +1,2 @@
+# Section 24a. Punishment for running / operating arms and ammunition dealership or a shooting range or shooting club without having license
+[24-A. Whoever operates or runs or manages the affairs of the arms and ammunition dealership or shooting range or shooting club at any place without getting license shall be punishable with imprisonment for a term which may be extended to three years or fine which may extend up to rupees ten million or with both.]
