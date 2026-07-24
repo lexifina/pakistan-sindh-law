@@ -1,0 +1,2 @@
+# Section 10a
+[10-A. All the Government departments, autonomous bodies, corporations established or controlled by Government shall provide necessary assistance and support to the Officers of the Board in carrying out the functions under this Act [and shall also provide necessary assistance and support to the officers of the SRB in carrying out their functions and duties under this Act or under any other law empowering them to administer or collect any tax, cess, fund, fee or levy.]
