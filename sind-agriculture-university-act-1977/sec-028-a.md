@@ -1,0 +1,3 @@
+# Section 28a. Pro-Vice- Chancellor
+["28-A. (1) The Chancellor may in consultation with the Vice- Chancellor, appoint a Pro-Vice-Chancellor for the main campus or for additional campus, if any, or for both the campuses jointly or separately, on such terms and conditions and for such period not exceeding four year at a time as the Chancellor may determine.
+(2) Where a Pro-Vice-Chancellor is appointed under sub- section (1), he shall, notwithstanding anything contained in this Act, exercise such powers and perform such functions of the Vice-Chancellor or such other powers and functions, in respect of the campus for which he is appointed as the Chancellor may delegate to him.".]
