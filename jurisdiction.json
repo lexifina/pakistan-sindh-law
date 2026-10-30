@@ -1,0 +1,8 @@
+{
+  "path": "pk-sd",
+  "code": "PK-SD",
+  "name": "Sindh",
+  "level": "country",
+  "repo": "https://github.com/lexifina/pakistan-sindh-law",
+  "build": "built: Sindh Acts and Ordinances, current codified text from the Sindh Code (Law Department, Government of Sindh)"
+}

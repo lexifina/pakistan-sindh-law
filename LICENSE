@@ -1,0 +1,27 @@
+Law texts
+
+The texts in this repository are Sindh Acts and Ordinances as codified, in English, by the Law, Parliamentary Affairs
+and Criminal Prosecution Department, Government of Sindh, on the Sindh Code (sindhlaws.gov.pk, "Codified Laws").
+Each codified PDF gives the law as updated till the date its page states. The site's footer reads: "(c) 2026 Law,
+Parliamentary Affairs & Criminal Prosecution Department, Government of Sindh. All Rights Reserved." The site states
+no licence and no terms of use, and no prohibition of reproduction.
+
+- Copyright: the Copyright Ordinance, 1962 (Ordinance No. XXXIV of 1962), section 57(1), says "The following acts
+  shall not constitute an infringement of copyright, namely:" and, in clause (q), "the reproduction or publication
+  of__ (i) any matter which has been published in any official Gazette, or the report of any committee, commission,
+  council, board or other like body appointed by the Government unless the reproduction or publication of such matter
+  or report is prohibited by the Government". The Sindh Acts and Ordinances, and the laws amending them, are
+  published in the Sindh Government Gazette; no prohibition of reproducing them was found.
+- The limits of that basis: the codification itself (merging the amendments into the text, and the wording of the
+  footnotes) is the department's work and was not itself published in the Gazette, so s. 57(1)(q)(i) does not in terms
+  cover it; under sections 2 and 22 of the Ordinance a Government work carries copyright. The footnotes record facts
+  (which law changed which words). The texts are reproduced without change to their wording; only the arrangement
+  (one file per section, one paragraph per line, the marginal note as the heading line) is Lexifina's.
+- The codified PDFs are not the authoritative text: the Acts and Ordinances as published in the Sindh Government
+  Gazette are.
+
+Attribution: Source: Law, Parliamentary Affairs and Criminal Prosecution Department, Government of Sindh, Sindh Code,
+https://sindhlaws.gov.pk.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

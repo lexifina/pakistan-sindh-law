@@ -1,0 +1,481 @@
+{
+ "country": "PK-SD",
+ "acts": [
+  {
+   "slug": "coastal-development-authority-act-1994",
+   "short": "Coastal Development Authority Act, 1994",
+   "title": "Coastal Development Authority Act, 1994 (Sindh Act No. XXVIII of 1994)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-16-000252&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 26,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-16-000252&Lang=EN",
+     "sha256": "dab14cb2402fdf477cbc2db7a635e72ed539c8b46d72e7408a13f1fd2db32576"
+    }
+   ]
+  },
+  {
+   "slug": "n-e-d-university-of-engineering-and-technology-act-1977",
+   "short": "N.E.D. University of Engineering and Technology Act, 1977",
+   "title": "N.E.D. University of Engineering and Technology Act, 1977 (Sindh Act No. III of 1977)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-15-000361&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 52,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-15-000361&Lang=EN",
+     "sha256": "97698c7f95bbb4b5adde6bfcd37b9ccd38b1ae919b7cbb32c4f1458877f29676"
+    }
+   ]
+  },
+  {
+   "slug": "peoples-university-of-medical-and-health-sciences-for-women-shaheed-benazirabad-act-2009",
+   "short": "Peoples University of Medical and Health Sciences for Women, Shaheed Benazirabad Act, 2009",
+   "title": "Peoples University of Medical and Health Sciences for Women, Shaheed Benazirabad Act, 2009 (Sindh Act No. XX of 2010)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-16-000215&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 45,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-16-000215&Lang=EN",
+     "sha256": "66691119d3cbafb8b10d3537409975761e1caefc34571991ffdaa0a5544998dd"
+    }
+   ]
+  },
+  {
+   "slug": "prohibition-of-preparation-manufacturing-storage-sale-and-use-of-gutka-and-manpuri-act",
+   "short": "Prohibition of Preparation, Manufacturing, Storage, Sale, and Use of Gutka and Manpuri Act, 2019",
+   "title": "Prohibition of Preparation, Manufacturing, Storage, Sale, and Use of Gutka and Manpuri Act, 2019 (Sindh Act No. III of 2020)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-25-000046&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 24,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-25-000046&Lang=EN",
+     "sha256": "f14cea751397e9b1eeec49e10d7d20a688cbb4c3087a47658b28af1ab5d55673"
+    }
+   ]
+  },
+  {
+   "slug": "public-service-commission-act-2022",
+   "short": "Public Service Commission Act, 2022",
+   "title": "Public Service Commission Act, 2022 (Sindh Act No. IV of 2022)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-25-000075&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 16,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-25-000075&Lang=EN",
+     "sha256": "f0e623c5bfdfc2412b1e30c8ecea3a4b26398145501a76e109cf25095af46988"
+    }
+   ]
+  },
+  {
+   "slug": "shaikh-ayaz-university-shikarpur-act-2018",
+   "short": "Shaikh Ayaz University Shikarpur Act, 2018",
+   "title": "Shaikh Ayaz University Shikarpur Act, 2018 (Sindh Act No. XLIII of 2018)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-26-000146&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 62,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-26-000146&Lang=EN",
+     "sha256": "f01eb3c29a45c57a7b0f62a149a8a2a6bf1d1c27abae2976294ad497ef1b4f20"
+    }
+   ]
+  },
+  {
+   "slug": "sind-agricultural-supplies-organization-act-1973",
+   "short": "Sind Agricultural Supplies Organization Act, 1973",
+   "title": "Sind Agricultural Supplies Organization Act, 1973 (Sindh Act No. X of 1973)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-15-000292&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 26,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-15-000292&Lang=EN",
+     "sha256": "932caad693fb935500764ee95d83d48f73ac8e79f399052e6ab6ce0ff03ed200"
+    }
+   ]
+  },
+  {
+   "slug": "sind-agriculture-university-act-1977",
+   "short": "Sind Agriculture University Act, 1977",
+   "title": "Sind Agriculture University Act, 1977 (Sindh Act No. V of 1977)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-15-000363&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 49,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-15-000363&Lang=EN",
+     "sha256": "1a88cba833a5ccb1cb5d5f2c74192bde892d728ca133a23b152cd13a25cc4e9e"
+    }
+   ]
+  },
+  {
+   "slug": "sind-civil-servants-act-1973",
+   "short": "Sind Civil Servants Act, 1973",
+   "title": "Sind Civil Servants Act, 1973 (Sindh Act No. XIV of 1973)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-15-000293&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 28,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-15-000293&Lang=EN",
+     "sha256": "cc5b64a7165a417be435579bb5252dea5b5b03b441d3245912369cbfcdf4882b"
+    }
+   ]
+  },
+  {
+   "slug": "sind-goth-abad-housing-scheme-act-1987",
+   "short": "Sind Goth-abad (Housing Scheme) Act, 1987",
+   "title": "Sind Goth-abad (Housing Scheme) Act, 1987 (Sindh Act No. VII of 1987)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-15-000777&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 14,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-15-000777&Lang=EN",
+     "sha256": "2f075bbba51c716dd48ad304749eda1dc50a4d0cf966a1cbf378c0f7bcd133e3"
+    }
+   ]
+  },
+  {
+   "slug": "sind-katchi-abadis-act-1987",
+   "short": "Sind Katchi Abadis Act, 1987",
+   "title": "Sind Katchi Abadis Act, 1987 (Sindh Act No. II of 1987)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-15-000776&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 44,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-15-000776&Lang=EN",
+     "sha256": "4c299a8e9a346b8df6c763982a7e1e135813ea26e7e05d16fa331ffce4959a64"
+    }
+   ]
+  },
+  {
+   "slug": "sind-rented-premises-ordinance-1979",
+   "short": "Sind Rented Premises Ordinance, 1979",
+   "title": "Sind Rented Premises Ordinance, 1979 (Sindh Ordinance No. XVII of 1979)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-15-000484&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 27,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-15-000484&Lang=EN",
+     "sha256": "1032fe6034f34df8811f2a4eea7ee7c27d2de9a71df644608641a747d59dcb19"
+    }
+   ]
+  },
+  {
+   "slug": "sind-tax-evasion-punishment-act-1974",
+   "short": "Sind Tax Evasion (Punishment) Act, 1974",
+   "title": "Sind Tax Evasion (Punishment) Act, 1974 (Sindh Act No. XXIX of 1974)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-15-000277&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 7,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-15-000277&Lang=EN",
+     "sha256": "503c77975215a2bf56bc2b581ab3b9a195c5bd01b55656f60d6021638b8fe14f"
+    }
+   ]
+  },
+  {
+   "slug": "sind-waqf-properties-ordinance-1979",
+   "short": "Sind Waqf Properties Ordinance, 1979",
+   "title": "Sind Waqf Properties Ordinance, 1979 (Sindh Ordinance No. IX of 1979)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-15-000476&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 27,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-15-000476&Lang=EN",
+     "sha256": "c6eaaab94acc990bafc996370034a10d23de9dbf8556310ba810757a82429603"
+    }
+   ]
+  },
+  {
+   "slug": "sindh-arms-act-2013",
+   "short": "Sindh Arms Act, 2013",
+   "title": "Sindh Arms Act, 2013 (Sindh Act No. V of 2013)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-18-000128&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 46,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-18-000128&Lang=EN",
+     "sha256": "f609762e8dbdf8363f22799408f6daa2a4b8995bed7c9a02a772484015915f00"
+    }
+   ]
+  },
+  {
+   "slug": "sindh-child-protection-authority-act-2011",
+   "short": "Sindh Child Protection Authority Act, 2011",
+   "title": "Sindh Child Protection Authority Act, 2011 (Sindh Act No. XIV of 2011)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-23-000089&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 29,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-23-000089&Lang=EN",
+     "sha256": "9f0382bd84fa8976115e497a8eb4b9272f7d449f7e74fb1e6b16a0e1af010c72"
+    }
+   ]
+  },
+  {
+   "slug": "sindh-government-educational-and-training-institutions-ordinance-1960",
+   "short": "Sindh Government Educational and Training Institutions Ordinance, 1960",
+   "title": "Sindh Government Educational and Training Institutions Ordinance, 1960 (Sindh Ordinance No. XI of 1960)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-26-000137&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 18,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-26-000137&Lang=EN",
+     "sha256": "56b82ffe8ceb3c5deaa31acc00ad254990fa24590b3cc9d3d6fb9f10d04767bf"
+    }
+   ]
+  },
+  {
+   "slug": "sindh-letters-of-administration-and-succession-certificates-act-2021",
+   "short": "Sindh Letters of Administration and Succession Certificates Act, 2021",
+   "title": "Sindh Letters of Administration and Succession Certificates Act, 2021 (Sindh Act No. VII of 2021)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-26-000093&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 14,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-26-000093&Lang=EN",
+     "sha256": "e6685b2cd5322b56d19d136fb9ee51dece7205bf090deaff1acfccb3bc398fca"
+    }
+   ]
+  },
+  {
+   "slug": "sindh-public-property-removal-of-encroachment-act-2010",
+   "short": "Sindh Public Property (Removal of Encroachment) Act, 2010",
+   "title": "Sindh Public Property (Removal of Encroachment) Act, 2010 (Sindh Act No. XVIII of 2010)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-26-000094&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 31,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-26-000094&Lang=EN",
+     "sha256": "9623d6db1e0e9ef269f84b5539f8cd727f0ae4bf01ec50dc1242e8270249055e"
+    }
+   ]
+  },
+  {
+   "slug": "sindh-revenue-board-act-2010",
+   "short": "Sindh Revenue Board Act, 2010",
+   "title": "Sindh Revenue Board Act, 2010 (Sindh Act No. XI of 2010)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-26-000083&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 23,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-26-000083&Lang=EN",
+     "sha256": "18b2cd0522ce72133df8ee8590dccde5bc60c18b7267d59a569f2755b739fb6f"
+    }
+   ]
+  },
+  {
+   "slug": "sindh-special-assistants-appointment-powers-functions-salaries-allowances-and-privileges",
+   "short": "Sindh Special Assistants (Appointment, Powers, Functions, Salaries, Allowances and Privileges) Act, 2003",
+   "title": "Sindh Special Assistants (Appointment, Powers, Functions, Salaries, Allowances and Privileges) Act, 2003 (Sindh Act No. I of 2005)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-16-000439&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 23,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-16-000439&Lang=EN",
+     "sha256": "a40ca3fcefed0817aa4ef99d87489de53a94c8815dcd10bd4a7a987693f88865"
+    }
+   ]
+  },
+  {
+   "slug": "thar-coal-and-energy-board-act-2011",
+   "short": "Thar Coal and Energy Board Act, 2011",
+   "title": "Thar Coal and Energy Board Act, 2011 (Sindh Act No. XX of 2011)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-26-000086&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 20,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-26-000086&Lang=EN",
+     "sha256": "ebc14e9f57466ef09aec6e586d283c055e209a7e256a7d8a68bb76669ed7861d"
+    }
+   ]
+  },
+  {
+   "slug": "the-government-college-university-hyderabad-act-2018",
+   "short": "The Government College University Hyderabad Act, 2018",
+   "title": "The Government College University Hyderabad Act, 2018 (Sindh Act No. XXIV of 2018)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-26-000078&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 62,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-26-000078&Lang=EN",
+     "sha256": "53d1ed78290082effd825ef3e4fb00c7ca521c5800f2d534554ca743fa90c521"
+    }
+   ]
+  },
+  {
+   "slug": "workers-welfare-fund-act-2014",
+   "short": "Workers Welfare Fund Act,2014",
+   "title": "Workers Welfare Fund Act,2014 (Sindh Act No. XXXIII of 2015)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-26-000098&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 21,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-26-000098&Lang=EN",
+     "sha256": "3ad48fcf66a38a9812c5ac1e698a2c56539e59c69132e17de7154bd22f728cf2"
+    }
+   ]
+  },
+  {
+   "slug": "hyderabad-development-authority-act-1976",
+   "short": "Hyderabad Development Authority Act, 1976",
+   "title": "Hyderabad Development Authority Act, 1976 (Sindh Act No. XIII of 1976)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-15-000621&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 73,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-15-000621&Lang=EN",
+     "sha256": "bf672392edc2f76c8696a1bf63c1716f8201d77a1bf1e21844a2a55b336a7709"
+    }
+   ]
+  },
+  {
+   "slug": "institute-of-business-administration-act-1994",
+   "short": "Institute of Business Administration Act, 1994",
+   "title": "Institute of Business Administration Act, 1994 (Sindh Act No. XX of 1994)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-26-000145&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 20,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-26-000145&Lang=EN",
+     "sha256": "38a6dc299bc28f5296c2d77a300e473f8f19114aa8db8fc95850ffdef69edcb5"
+    }
+   ]
+  },
+  {
+   "slug": "malir-development-authority-act-1993",
+   "short": "Malir Development Authority Act, 1993",
+   "title": "Malir Development Authority Act, 1993 (Sindh Act No. XI of 1994)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-15-000796&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 54,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-15-000796&Lang=EN",
+     "sha256": "e885ebe7ec6af49c9c5105d80fa9b7599df5e5e1d3bd1fa721b03a179a42e8c2"
+    }
+   ]
+  },
+  {
+   "slug": "regional-plan-organization-act-1976",
+   "short": "Regional Plan Organization Act, 1976",
+   "title": "Regional Plan Organization Act, 1976 (Sindh Act No. I of 1976)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-15-000510&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 23,
+     "source_url": "https://sindhlaws.gov.pk/Setup/Publications_SindhCode/PUB-15-000510.pdf",
+     "sha256": "b4eeac3954d9877c9d913bf5da1856db87f83354191ff5cf65105dd218b0e3ca"
+    }
+   ]
+  },
+  {
+   "slug": "sind-seed-corporation-act-1976",
+   "short": "Sind Seed Corporation Act, 1976",
+   "title": "Sind Seed Corporation Act, 1976 (Sindh Act No. II of 1976)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-15-000284&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 28,
+     "source_url": "https://sindhlaws.gov.pk/Setup/Publications_SindhCode/PUB-15-000284.pdf",
+     "sha256": "05a9bf810092c6f643015bd00a825d6eb51ae417bff422ac49c6c48b0031a18c"
+    }
+   ]
+  },
+  {
+   "slug": "sind-small-industries-and-handicrafts-development-corporation-act-1972",
+   "short": "Sind Small Industries and Handicrafts Development Corporation Act, 1972",
+   "title": "Sind Small Industries and Handicrafts Development Corporation Act, 1972 (Sindh Act No. XXVI of 1972)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-15-000241&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 38,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-15-000241&Lang=EN",
+     "sha256": "0698cb070d14b02c9323c0b22551b9704632c370b816634397108e6606f4d415"
+    }
+   ]
+  },
+  {
+   "slug": "sindh-covid-19-emergency-relief-act-2020",
+   "short": "Sindh COVID-19 Emergency Relief Act, 2020",
+   "title": "Sindh COVID-19 Emergency Relief Act, 2020 (Sindh Act No. XII of 2020)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-23-000021&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 16,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-23-000021&Lang=EN",
+     "sha256": "b301f908daa6d8324cdbcdc537ce455b9d4f17ab595ffb8c34661a5fd9cef96b"
+    }
+   ]
+  },
+  {
+   "slug": "sindh-fisheries-ordinance-1980",
+   "short": "Sindh Fisheries Ordinance, 1980",
+   "title": "Sindh Fisheries Ordinance, 1980 (Sindh Ordinance No. III of 1980)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-26-000058&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 34,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-26-000058&Lang=EN",
+     "sha256": "b7f029121a528883e8fb26bdf6169b20b0baa6431fefa2c3a5917465e51126f4"
+    }
+   ]
+  },
+  {
+   "slug": "sindh-protection-of-human-rights-act-2011",
+   "short": "Sindh Protection of Human Rights Act, 2011",
+   "title": "Sindh Protection of Human Rights Act, 2011 (Sindh Act No. XIII of 2011)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-26-000075&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-24",
+     "units": 15,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-26-000075&Lang=EN",
+     "sha256": "7a2b9934f9dc141621bfe451d5e2eff991f3c5d1b4a7f99f2ef6f60334ef51f8"
+    }
+   ]
+  },
+  {
+   "slug": "the-sindh-safe-blood-transfusion-act-2017",
+   "short": "The Sindh Safe Blood Transfusion Act, 2017",
+   "title": "The Sindh Safe Blood Transfusion Act, 2017 (Sindh Act No. XXXI of 2017)",
+   "url": "https://sindhlaws.gov.pk/LawDocument.aspx?PubID=PUB-NEW-26-000099&Lang=EN",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 23,
+     "source_url": "https://sindhlaws.gov.pk/DownloadDocument.aspx?PubID=PUB-NEW-26-000099&Lang=EN",
+     "sha256": "afc7b8597501894c0f5bf41136c14eec37f011f81b0a0e851b559826ff6d2d30"
+    }
+   ]
+  }
+ ]
+}
