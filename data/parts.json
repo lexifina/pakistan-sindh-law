@@ -1,0 +1,49 @@
+{
+ "parts": {
+  "20-acts-01.json": {
+   "acts": [
+    "coastal-development-authority-act-1994",
+    "n-e-d-university-of-engineering-and-technology-act-1977",
+    "peoples-university-of-medical-and-health-sciences-for-women-shaheed-benazirabad-act-2009",
+    "prohibition-of-preparation-manufacturing-storage-sale-and-use-of-gutka-and-manpuri-act",
+    "public-service-commission-act-2022",
+    "shaikh-ayaz-university-shikarpur-act-2018",
+    "sind-agricultural-supplies-organization-act-1973",
+    "sind-agriculture-university-act-1977",
+    "sind-civil-servants-act-1973",
+    "sind-goth-abad-housing-scheme-act-1987",
+    "sind-katchi-abadis-act-1987",
+    "sind-rented-premises-ordinance-1979",
+    "sind-tax-evasion-punishment-act-1974",
+    "sind-waqf-properties-ordinance-1979",
+    "sindh-arms-act-2013",
+    "sindh-child-protection-authority-act-2011",
+    "sindh-government-educational-and-training-institutions-ordinance-1960",
+    "sindh-letters-of-administration-and-succession-certificates-act-2021",
+    "sindh-public-property-removal-of-encroachment-act-2010",
+    "sindh-revenue-board-act-2010",
+    "sindh-special-assistants-appointment-powers-functions-salaries-allowances-and-privileges",
+    "thar-coal-and-energy-board-act-2011",
+    "the-government-college-university-hyderabad-act-2018",
+    "workers-welfare-fund-act-2014"
+   ],
+   "sha256": "3bfbbf1474c4e1fe52ce0f141380dfb752a32fda75b566c432f599f032e8d2ca"
+  },
+  "20-acts-02.json": {
+   "acts": [
+    "hyderabad-development-authority-act-1976",
+    "institute-of-business-administration-act-1994",
+    "malir-development-authority-act-1993",
+    "regional-plan-organization-act-1976",
+    "sind-seed-corporation-act-1976",
+    "sind-small-industries-and-handicrafts-development-corporation-act-1972",
+    "sindh-covid-19-emergency-relief-act-2020",
+    "sindh-fisheries-ordinance-1980",
+    "sindh-protection-of-human-rights-act-2011",
+    "the-sindh-safe-blood-transfusion-act-2017"
+   ],
+   "sha256": "7c1e2615abf08a79ad5de9df7b4e89f55e14f125836f561e146483e3ef2e7aca"
+  }
+ },
+ "schema": 1
+}
