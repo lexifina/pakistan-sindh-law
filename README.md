@@ -1,5 +1,7 @@
 # Sindh: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Sindh, Pakistan, which global-law reads at `pakistan/sindh/acts/`.
+
 The Acts and Ordinances of the Province of Sindh (Pakistan) as a git history: one file per section, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is the English codified text published by the Law, Parliamentary Affairs and Criminal Prosecution Department, Government of Sindh, on the Sindh Code.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
